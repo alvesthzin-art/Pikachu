@@ -20,4 +20,4 @@ Um projeto simples e divertido inspirado no **Pikachu**, desenvolvido apenas com
 ## 🚀 Como Executar
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seuusuario/pikachu.git
+   git clone https://github.com/alvesthzin-art/pikachu.git
